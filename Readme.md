@@ -62,7 +62,7 @@ The objective is to make financial data easier to understand through interactive
 ### 1. Executive Overview
 
 <p align="center">
-  <img src="dashboard%20preview/dashboard-overview.png" alt="Executive Overview Dashboard" width="100%"/>
+  <img src="dashboard%20preview/Executive-Overview.png" alt="Executive Overview Dashboard" width="100%"/>
 </p>
 
 This page provides a high-level overview of fund performance through KPI cards and interactive charts.
