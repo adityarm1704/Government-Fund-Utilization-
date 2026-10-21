@@ -81,7 +81,6 @@ This page provides a high-level overview of fund performance through KPI cards a
 ### 2. Detailed Fund Analysis
 
 <p align="center">
-  <img src="dashboard%20preview/Executive-Overview.png" alt="Detailed Fund Analysis Dashboard" width="100%"/>
   <img src="dashboard%20preview/Statewise Validation and analysis.png" alt="Detailed Fund Analysis Dashboard" width="100%"/>
 </p>
 
